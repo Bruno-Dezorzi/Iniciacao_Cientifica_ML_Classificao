@@ -1,0 +1,15 @@
+✅ 1. Leitura dos dados
+✅ 2. Análise exploratória (EDA)
+✅ 3. Pré-processamento
+
+Remover outliers
+
+Lidar com valores ausentes
+
+Aplicar Scaler (se necessário)
+✅ 4. Feature Engineering
+
+OneHotEncoder / LabelEncoder
+✅ 5. Regularização (se aplicável)
+✅ 6. Dividir os dados (Treino/Validação/Teste)
+✅ 7. Cross-Validation
