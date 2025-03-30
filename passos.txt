@@ -1,15 +1,13 @@
-✅ 1. Leitura dos dados
-✅ 2. Análise exploratória (EDA)
-✅ 3. Pré-processamento
-
-Remover outliers
-
-Lidar com valores ausentes
-
-Aplicar Scaler (se necessário)
+✅ 1. Coletar os dados
+✅ 2. Explorar os dados (EDA)
+✅ 3. Pré-processamento (outliers, valores ausentes)
 ✅ 4. Feature Engineering
-
-OneHotEncoder / LabelEncoder
-✅ 5. Regularização (se aplicável)
-✅ 6. Dividir os dados (Treino/Validação/Teste)
-✅ 7. Cross-Validation
+✅ 5. Encoding de categóricas
+✅ 6. Normalizar/Padronizar os dados
+✅ 7. PCA (se necessário)
+✅ 8. Dividir em treino/teste
+✅ 9. Cross-Validation
+✅ 10. Treinar modelos
+✅ 11. Avaliar performance
+✅ 12. Ajuste de hiperparâmetros
+✅ 13. Salvar e implementar
