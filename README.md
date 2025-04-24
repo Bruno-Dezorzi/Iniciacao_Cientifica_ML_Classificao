@@ -16,7 +16,7 @@ Investigar a eficiência dos classificadores **Support Vector Machine (SVM)** e 
 
 ## 📁 Estrutura do Projeto
 
-INICIACAO_CIENTIFICA_ML_CLASSIFICAO/
+```INICIACAO_CIENTIFICA_ML_CLASSIFICAO/
 │
 ├── data/                      # Conjunto de dados processado
 │   └── iris_processado.pkl
@@ -36,6 +36,7 @@ INICIACAO_CIENTIFICA_ML_CLASSIFICAO/
 ├── README.md                  # Documentação do projeto
 ├── requirements.txt           # Lista de dependências do projeto
 └── .gitignore                 # Arquivos e pastas ignoradas pelo Git
+```
 
 
 
@@ -72,8 +73,9 @@ INICIACAO_CIENTIFICA_ML_CLASSIFICAO/
 
 ## Ambiente Virtual
 Ative o ambiente virtual (ou crie um com venv) e instale as dependências:
+```
 pip install -r requirements.txt
-
+```
 
 ## ✨ Autor
 Bruno Dezorzi
