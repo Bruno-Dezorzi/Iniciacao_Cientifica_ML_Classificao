@@ -8,7 +8,7 @@ Investigar a eficiência dos classificadores **Support Vector Machine (SVM)** e 
 
 ## ⚙️ Tecnologias Utilizadas
 
-- Python 3.x  
+- Python 3.11.7  
 - Jupyter Notebook  
 - pandas, numpy  
 - matplotlib, seaborn  
@@ -16,7 +16,27 @@ Investigar a eficiência dos classificadores **Support Vector Machine (SVM)** e 
 
 ## 📁 Estrutura do Projeto
 
-INICIACAO_CIENTIFICA_ML_CLASSIFICAO/ │ ├── data/ # Conjunto de dados processado │ └── iris_processado.pkl │ ├── notebooks/ # Notebooks Jupyter para análises individuais │ ├── somente_teste.ipynb │ └── validacao_teste.ipynb │ ├── scripts/ # Scripts reutilizáveis │ ├── index.py │ ├── pre_processing.py │ └── treino_teste.py │ ├── venv/ # Ambiente virtual Python (não incluído no controle de versão) │ ├── passos.txt # Etapas do projeto ├── README.md # Este arquivo ├── requirements.txt # Dependências do projeto └── .gitignore # Ignora arquivos e pastas do Git
+INICIACAO_CIENTIFICA_ML_CLASSIFICAO/
+│
+├── data/                      # Conjunto de dados processado
+│   └── iris_processado.pkl
+│
+├── notebooks/                 # Notebooks Jupyter para análises individuais
+│   ├── somente_teste.ipynb
+│   └── validacao_teste.ipynb
+│
+├── scripts/                   # Scripts reutilizáveis
+│   ├── index.py
+│   ├── pre_processing.py
+│   └── treino_teste.py
+│
+├── venv/                      # Ambiente virtual Python (fora do controle de versão)
+│
+├── passos.txt                 # Etapas e anotações do projeto
+├── README.md                  # Documentação do projeto
+├── requirements.txt           # Lista de dependências do projeto
+└── .gitignore                 # Arquivos e pastas ignoradas pelo Git
+
 
 
 ## 🧪 Metodologia
