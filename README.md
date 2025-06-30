@@ -18,6 +18,8 @@ Investigar a eficiência dos classificadores **Support Vector Machine (SVM)** e 
 
 ```INICIACAO_CIENTIFICA_ML_CLASSIFICAO/
 │
+├── artigo/                      # Versões dos artigosd
+│   └── Modelo Overleaf.pdf
 ├── data/                      # Conjunto de dados processado
 │   └── iris_processado.pkl
 │
@@ -32,7 +34,6 @@ Investigar a eficiência dos classificadores **Support Vector Machine (SVM)** e 
 │
 ├── venv/                      # Ambiente virtual Python (fora do controle de versão)
 │
-├── passos.txt                 # Etapas e anotações do projeto
 ├── README.md                  # Documentação do projeto
 ├── requirements.txt           # Lista de dependências do projeto
 └── .gitignore                 # Arquivos e pastas ignoradas pelo Git
