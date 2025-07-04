@@ -18,7 +18,7 @@ Investigar a eficiência dos classificadores **Support Vector Machine (SVM)** e 
 
 ```INICIACAO_CIENTIFICA_ML_CLASSIFICAO/
 │
-├── artigo/                      # Versões dos artigos
+├── artigo/                    # Versões dos artigos
 │   └── Modelo Overleaf.pdf
 ├── data/                      # Conjunto de dados processado
 │   └── iris_processado.pkl
